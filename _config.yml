@@ -2,8 +2,8 @@
 name: "Upcycle Interiors"
 title: "Upcycle Interiors"
 description: "Transforming the Past, Enriching Your Space."
-logo: 'C:\Users\SOHO\amplifyapp\mediumish-theme-jekyll\assets\images\assets\images\logo.png'
-favicon: 'assets/images/logo.png'
+logo: '/assets/images/logo.png'
+favicon: '/assets/images/logo.png'
 baseurl: /mediumish-theme-jekyll
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
